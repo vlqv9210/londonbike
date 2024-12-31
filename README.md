@@ -34,7 +34,7 @@ In this analysis, I used Python and the pandas library to clean, transform, and 
 
 You can explore the final data and visualizations in my Tableau dashboard by following the link below:
 
-[Tableau Dashboard - London Bike Sharing](https://public.tableau.com/views/QT6WQJZ2M/1)
+[Tableau Dashboard - London Bike Sharing](https://public.tableau.com/shared/QT6WQJZ2M?:display_count=n&:origin=viz_share_link)
 
 ## Acknowledgments
 
