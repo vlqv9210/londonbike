@@ -1,5 +1,8 @@
 # London Bike Sharing Dataset Analysis
 
+![Dashboard 1 (1)](https://github.com/user-attachments/assets/340377e5-4d7f-4fae-8f46-c880bb7b9781)
+
+
 This repository contains a dataset and analysis of bike-sharing data in London. The dataset was sourced from Kaggle and consists of historical data on bike usage, weather conditions, and other relevant factors.
 
 ## Dataset Overview
